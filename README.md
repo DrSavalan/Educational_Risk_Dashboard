@@ -1,6 +1,5 @@
 # Educational_Risk_Dashboard
 
-
 An interactive, fully offline web application built with Python and Flask. This dashboard is designed for educational purposes to simulate asset price paths and calculate key financial risk metrics in real-time.
 
 ## 🚀 Features
