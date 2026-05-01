@@ -1,4 +1,5 @@
 # Educational_Risk_Dashboard
+![Uploading image.png…]()
 
 An interactive, fully offline web application built with Python and Flask. This dashboard is designed for educational purposes to simulate asset price paths and calculate key financial risk metrics in real-time.
 
@@ -27,6 +28,10 @@ You can control the following variables via the dashboard sliders:
 * **$\sigma$ (Volatility):** The standard deviation of the asset's returns (risk/fluctuation).
 * **Time Horizon ($N$):** Number of simulated time steps (days).
 * **Confidence Level:** The statistical probability level for VaR and ES calculations (e.g., $95\%$ or $99\%$).
+
+## 📝 License
+
+This project is licensed under the MIT License.
 
 ## ⚙️ Installation & Usage
 
